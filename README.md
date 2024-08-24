@@ -1,7 +1,6 @@
 # TOMATO DISEASE DETECTION
 ![image](https://github.com/user-attachments/assets/ae644a5b-6bad-4b08-a941-861cb9681bc6)
 
-**Authors:** Diana Olulo, Lisa Mwikali, Kimani Irungu, Purity Kibaki, Andrew Baraka, Victor Keya
 ## Repository Navigation
 1. [Introduction](https://github.com/KeyMoney22/Plant_disease_classification-?tab=readme-ov-file#introduction)
 2. [Business Understanding](https://github.com/KeyMoney22/Plant_disease_classification-?tab=readme-ov-file#business-understanding)
